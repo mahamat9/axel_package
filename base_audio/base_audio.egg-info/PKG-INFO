@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: base_audio
+Version: 0.1
+Summary: Base audio processing package from Axel M packs
+Author: Axel M(little upgradint by Mahamat)
+Requires-Dist: numpy
+Requires-Dist: librosa
+Requires-Dist: mir_eval
+Requires-Dist: matplotlib
+Requires-Dist: IPython
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

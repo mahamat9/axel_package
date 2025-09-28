@@ -1,0 +1,13 @@
+Iter 0: cost=7784.51171875
+Iter 1: cost=7752.056640625
+Iter 2: cost=7732.3642578125
+Iter 3: cost=7716.5224609375
+Iter 4: cost=7702.94970703125
+Iter 5: cost=7691.19091796875
+Iter 6: cost=7680.978515625
+Iter 7: cost=7672.08154296875
+Iter 8: cost=7664.28857421875
+Iter 9: cost=7657.41357421875
+U shape: torch.Size([100, 5])
+V shape: torch.Size([5, 200])
+tensor([1.9269, 1.4873, 0.9007, 2.1055, 0.6784])

@@ -1,0 +1,13 @@
+setup.py
+base_audio/__init__.py
+base_audio/audio_helper.py
+base_audio/common_plot.py
+base_audio/errors.py
+base_audio/example.py
+base_audio/signal_to_spectrogram.py
+base_audio/spectrogram_to_signal.py
+base_audio.egg-info/PKG-INFO
+base_audio.egg-info/SOURCES.txt
+base_audio.egg-info/dependency_links.txt
+base_audio.egg-info/requires.txt
+base_audio.egg-info/top_level.txt

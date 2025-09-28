@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: nn_fac
+Version: 0.1
+Summary: Non-negative factorization methods (NMF, NTD, etc.)
+Requires-Dist: torch
+Requires-Dist: nimfa
+Requires-Dist: tensorly
+Dynamic: requires-dist
+Dynamic: summary
